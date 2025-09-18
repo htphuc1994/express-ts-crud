@@ -1,4 +1,4 @@
-# This repo is for Problem 5- A Crude Server; but you can find the solution for Problem 4- Three ways to sum to n.pdf and Problem 6- Architecture in pdf files under express-ts-crud/
+# This repo is for Problem 5- A Crude Server; but you can find the solutions for Problem 4- Three ways to sum to n.pdf and Problem 6- Architecture in pdf files under express-ts-crud/
 
 # Problem 5- A Crude Server: Express + TypeScript + Prisma (SQLite) — Configuration & Run Guide
 
